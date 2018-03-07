@@ -1,6 +1,6 @@
 {
-    "name": "hello-world",
-    "description": "Sample NodeJs web application",
+    "name": "NimbusWeb",
+    "description": "Web Application",
     "version": "0.0.1",
     "private": true,
     "devDependencies": {
